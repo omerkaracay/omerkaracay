@@ -1,8 +1,7 @@
 ### Hi there, I'm Ömer Karaçay [website] 👋
 
-## I'm a Developer, and Teacher test3!
+## I'm a Developer, and Teacher test4!
 - 🔭 I’m currently working on a...!
->>>>>>> 4bd41986cdb350a797198134784a4c9c4a03b1a4
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to research sth.
