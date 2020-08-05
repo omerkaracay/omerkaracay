@@ -1,6 +1,6 @@
 ### Hi there, I'm Ömer Karaçay [website] 👋
 
-## I'm a Developer, and Teacher test2!
+## I'm a Developer, and Teacher test3!
 - 🔭 I’m currently working on a...!
 >>>>>>> 4bd41986cdb350a797198134784a4c9c4a03b1a4
 - 🌱 I’m currently learning everything 🤣
