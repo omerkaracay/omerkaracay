@@ -1,7 +1,9 @@
-### Hi there, I'm Ömer Karaçay[website] 👋
+Testing....
+
+### Hi there, I'm Ömer Karaçay [website] 👋
 
 ## I'm a Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on ...!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to research sth.
