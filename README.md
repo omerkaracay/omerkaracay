@@ -14,7 +14,6 @@
 [<img align="left" alt="Ömer Karaçay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ömer Karaçay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ömer KAraçay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br /><br />
 
 ---
 ### Languages and Tools:
@@ -33,12 +32,14 @@
 <img align="left" alt="MYSQL" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/mysql.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/python.png" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/docker.png" />
-<br /><br />
+
 
 ---
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 ---
 
 [website]: https://www.omerkaracay.com
