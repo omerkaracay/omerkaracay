@@ -14,8 +14,9 @@
 [<img align="left" alt="Ömer Karaçay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ömer Karaçay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ömer KAraçay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br /><br />
 
-<br />
+![test image](https://github.com/[username]/[reponame]/blob/[branch]/photoshop.jpg?raw=true)
 
 ### Languages and Tools:
 
@@ -34,7 +35,7 @@
 <img align="left" alt="Python" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/python.png" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/docker.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
----
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Adobe XD Eklenti Hatası](https://www.omerkaracay.com/adobe-xd-eklenti-kurulumunda-internet-baglanti-hatasi-cozumu/)
@@ -44,6 +45,7 @@
 - [Günlük Kültür-Sanat Dozu](https://www.omerkaracay.com/gunluk-kultur-sanat-dozu/)
 <!-- BLOG-POST-LIST:END -->
 ---
+
 [website]: https://www.omerkaracay.com
 [twitter]: https://twitter.com/omrkrcy
 [youtube]: https://www.youtube.com/channel/UCpoyfHaGQCl9xvoQW2i_lOg
