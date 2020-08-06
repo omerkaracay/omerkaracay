@@ -15,9 +15,9 @@
 [<img align="left" alt="Ömer Karaçay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ömer KAraçay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br /><br />
----
+
 ### Languages and Tools:
-<p align="center">
+
 <img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/adobe_001-photoshop.png" />
 <img align="left" alt="Adobe Illustrator" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/adobe_002-illustrator.png" />
 <img align="left" alt="Adobe Xd" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/adobe_003-experience.png" />
@@ -32,7 +32,7 @@
 <img align="left" alt="MYSQL" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/mysql.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/python.png" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/docker.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 ---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
