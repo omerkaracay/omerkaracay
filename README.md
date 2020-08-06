@@ -19,8 +19,31 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/adobe_001-photoshop.png" />
+<img align="left" alt="Adobe Illustrator" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/adobe_002-illustrator.png" />
+<img align="left" alt="Adobe Xd" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/adobe_003-experience.png" />
+<img align="left" alt="Adobe Bridge" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/adobe_004-bridge.png" />
+<img align="left" alt="Adobe Lightroom" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/adobe_005-lightroom.png" />
+<img align="left" alt="Adobe Premier" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/adobe_006-premier.png" />
+<img align="left" alt="Adobe After Effects" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/adobe_007-after-effects.png" />
+<img align="left" alt="HTML 5" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/html-5.png" />
+<img align="left" alt="CSS" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/css.png" />
+<img align="left" alt="JS" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/javascript.png" />
+<img align="left" alt="PHP" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/php.png" />
+<img align="left" alt="MYSQL" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/mysql.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/python.png" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/docker.png" />
+
+
+
+
+
+
+
+
+
+
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
