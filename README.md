@@ -16,7 +16,7 @@
 [<img align="left" alt="Ömer KAraçay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br /><br />
 
-![test image](https://github.com/[username]/[reponame]/blob/[branch]/photoshop.jpg?raw=true)
+![test image](https://github.com/omerkaracay/omerkaracay/blob/master/images/icons/adobe_001-photoshop.png?raw=true)
 
 ### Languages and Tools:
 
