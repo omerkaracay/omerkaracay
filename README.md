@@ -36,11 +36,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 5.5 Yenilikleri](https://www.omerkaracay.com/wordpress-5-5-yenilikleri/)
 - [Adobe XD Eklenti Hatası](https://www.omerkaracay.com/adobe-xd-eklenti-kurulumunda-internet-baglanti-hatasi-cozumu/)
 - [Mubi Film Öğrenciler için Ücretsiz](https://www.omerkaracay.com/mubi-film-ogrenciler-icin-ucretsiz/)
 - [Link Kısaltma Siteleri (2020)](https://www.omerkaracay.com/link-kisaltma-siteleri-2020/)
 - [HP DV6 Unlocked BIOS](https://www.omerkaracay.com/hp-dv6-unlocked-bios/)
-- [Günlük Kültür-Sanat Dozu](https://www.omerkaracay.com/gunluk-kultur-sanat-dozu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
