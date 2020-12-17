@@ -36,11 +36,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Öğretmenler için Pratik Bilgiler](https://www.omerkaracay.com/ogretmenler-icin-pratik-bilgiler/)
 - [Zoom Öğretmenler İçin Notlar](https://www.omerkaracay.com/zoom-ogretmenler-icin-notlar/)
 - [The Queen’s Gambit (2020)](https://www.omerkaracay.com/the-queens-gambit-2020-inceleme/)
 - [Zoom Siyah Ekran Hatası Çözümü](https://www.omerkaracay.com/zoom-siyah-ekran-hatasi-cozumu/)
 - [Çizgili Pijamalı Çocuk](https://www.omerkaracay.com/cizgili-pijamali-cocuk-inceleme/)
-- [Victoria](https://www.omerkaracay.com/victoria-film-incelemesi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
