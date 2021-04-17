@@ -36,11 +36,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Yeni Nesil Tuzaklara Dikkat!](https://www.omerkaracay.com/yeni-nesil-tuzaklara-dikkat/)
 - [Güçlü Şifre Nasıl Oluşturulur?](https://www.omerkaracay.com/guclu-sifre-nasil-olusturulur/)
 - [Öğretmenler için Pratik Bilgiler](https://www.omerkaracay.com/ogretmenler-icin-pratik-bilgiler/)
 - [Zoom Öğretmenler İçin Notlar](https://www.omerkaracay.com/zoom-ogretmenler-icin-notlar/)
 - [The Queen’s Gambit (2020)](https://www.omerkaracay.com/the-queens-gambit-2020-inceleme/)
-- [Zoom Siyah Ekran Hatası Çözümü](https://www.omerkaracay.com/zoom-siyah-ekran-hatasi-cozumu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
