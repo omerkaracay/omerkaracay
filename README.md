@@ -40,7 +40,7 @@
 - [Güçlü Şifre Nasıl Oluşturulur?](https://www.omerkaracay.com/guclu-sifre-nasil-olusturulur/)
 - [Öğretmenler için Pratik Bilgiler](https://www.omerkaracay.com/ogretmenler-icin-pratik-bilgiler/)
 - [Zoom Öğretmenler İçin Notlar](https://www.omerkaracay.com/zoom-ogretmenler-icin-notlar/)
-- [The Queen’s Gambit (2020)](https://www.omerkaracay.com/the-queens-gambit-2020-inceleme/)
+- [The Queen’s Gambit &lpar;2020&rpar;](https://www.omerkaracay.com/the-queens-gambit-2020-inceleme/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
