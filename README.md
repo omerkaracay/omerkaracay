@@ -3,18 +3,10 @@
 ## I'm a beta-developer and Teacher.
 - 📚 Full-time learner.
 - 🐍 I've start to learn Python and Flutter.
-- 🥅 2020 Goals: Read more and more books and do not stop learn.
+- 🥅 2022 Goals: Read more and more books and do not stop learn.
 
-- I have changing hobbies. I love taking extraordinary photos  and recently started video editing. Maybe I can start making videos for youtube soon. I have a blog page written in Turkish and I share the things I love with technology, design, science and culture and art or what I think will be useful for people.
 ---
-### Connect with me:
 
-[<img align="left" alt="https://omerkaracay.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ömer Karaçay | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Ömer Karaçay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ömer Karaçay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ömer KAraçay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-</br></br>
 
 ### Languages and Tools:
 
