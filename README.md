@@ -1,6 +1,5 @@
 ### Hi there, I'm Ömer Karaçay [website] ⬅
 
-## I'm a beta-developer and Teacher.
 - 📚 Full-time learner.
 - 🐍 I've start to learn Python and Flutter.
 - 🥅 2022 Goals: Read more and more books and do not stop learn.
