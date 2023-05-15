@@ -9,11 +9,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ARALIKLI TEKRAR &lpar;SPACED REPETITION&rpar;](https://www.omerkaracay.com/aralikli-tekrar-spaced-repetition/)
+- [Zagreb Notları](https://www.omerkaracay.com/zagreb-notlari/)
+- [Film ve Dizi İncelemelerinde Nelere Dikkat Ediyorum?](https://www.omerkaracay.com/film-ve-dizi-incelemelerinde-nelere-dikkat-ediyorum/)
+- [Modern Adres Sistemi](https://www.omerkaracay.com/modern-adres-sistemi/)
 - [The Serpent &lpar;2021&rpar;](https://www.omerkaracay.com/the-serpent-2021/)
-- [Yeni Nesil Tuzaklara Dikkat!](https://www.omerkaracay.com/yeni-nesil-tuzaklara-dikkat/)
-- [Güçlü Şifre Nasıl Oluşturulur?](https://www.omerkaracay.com/guclu-sifre-nasil-olusturulur/)
-- [Öğretmenler için Pratik Bilgiler](https://www.omerkaracay.com/ogretmenler-icin-pratik-bilgiler/)
-- [Zoom Öğretmenler İçin Notlar](https://www.omerkaracay.com/zoom-ogretmenler-icin-notlar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
