@@ -1,7 +1,7 @@
 ### Hi there, I'm Ömer Karaçay [website] ⬅
 
 - 📚 Full-time learner.
-- 🥅 2022 Goals: Read more and more books and do not stop learn.
+- 🥅 2023 Goals: Read more and more books and do not stop learn.
 
 ---
 
