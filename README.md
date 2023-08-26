@@ -9,11 +9,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [ARALIKLI TEKRAR &lpar;SPACED REPETITION&rpar;](https://www.omerkaracay.com/aralikli-tekrar-spaced-repetition/)
+- [React Native Could not create task ‘:react-native-safe-area-context Hatası](https://www.omerkaracay.com/react-native-could-not-create-task-react-native-safe-area-context-hatasi/)
+- [Aralıklı Tekrar &lpar;Spaced Repetition&rpar;](https://www.omerkaracay.com/aralikli-tekrar-spaced-repetition/)
 - [Zagreb Notları](https://www.omerkaracay.com/zagreb-notlari/)
 - [Film ve Dizi İncelemelerinde Nelere Dikkat Ediyorum?](https://www.omerkaracay.com/film-ve-dizi-incelemelerinde-nelere-dikkat-ediyorum/)
 - [Modern Adres Sistemi](https://www.omerkaracay.com/modern-adres-sistemi/)
-- [The Serpent &lpar;2021&rpar;](https://www.omerkaracay.com/the-serpent-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
