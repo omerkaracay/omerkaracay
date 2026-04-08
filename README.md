@@ -9,11 +9,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Kuru Otlar Üstüne Notlarım](https://www.omerkaracay.com/kuru-otlar-ustune-notlarim/)
-- [Öğretmenler Odası Filmi&lpar;Das Lehrerzimmer&rpar;](https://www.omerkaracay.com/ogretmenler-odasi-filmidas-lehrerzimmer/)
-- [Babel &lpar;2006&rpar;: Dillerin Ortaya Çıkışı](https://www.omerkaracay.com/babel-2006-dillerin-ortaya-cikisi/)
-- [Helvetica &amp; Helvetica](https://www.omerkaracay.com/helvetica-helvetica/)
-- [React Native Could not create task ‘:react-native-safe-area-context Hatası](https://www.omerkaracay.com/react-native-could-not-create-task-react-native-safe-area-context-hatasi/)
+- [Kuru Otlar Üstüne Notlarım](https://omerkaracay.com/kuru-otlar-ustune-notlarim/)
+- [Öğretmenler Odası Filmi&lpar;Das Lehrerzimmer&rpar;](https://omerkaracay.com/ogretmenler-odasi-filmidas-lehrerzimmer/)
+- [Babel &lpar;2006&rpar;: Dillerin Ortaya Çıkışı](https://omerkaracay.com/babel-2006-dillerin-ortaya-cikisi/)
+- [Helvetica &amp; Helvetica](https://omerkaracay.com/helvetica-helvetica/)
+- [React Native Could not create task ‘:react-native-safe-area-context Hatası](https://omerkaracay.com/react-native-could-not-create-task-react-native-safe-area-context-hatasi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
