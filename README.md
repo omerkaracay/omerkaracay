@@ -9,11 +9,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Linus Torvalds](https://omerkaracay.com/linus-torvalds/)
 - [1 Yıldız Vermek Kolay](https://omerkaracay.com/1-yildiz-vermek-kolay/)
 - [Kuru Otlar Üstüne Notlarım](https://omerkaracay.com/kuru-otlar-ustune-notlarim/)
 - [Öğretmenler Odası Filmi&lpar;Das Lehrerzimmer&rpar;](https://omerkaracay.com/ogretmenler-odasi-filmidas-lehrerzimmer/)
 - [Babel &lpar;2006&rpar;: Dillerin Ortaya Çıkışı](https://omerkaracay.com/babel-2006-dillerin-ortaya-cikisi/)
-- [Helvetica &amp; Helvetica](https://omerkaracay.com/helvetica-helvetica/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
